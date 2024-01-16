@@ -1,6 +1,3 @@
-¡Entendido! Aquí tienes el README completo en formato markdown:
-
-```markdown
 # Proyecto Gráficos de Temperaturas en PHP
 
 Este proyecto utiliza PHP para mostrar gráficos de temperaturas de manera visualmente atractiva. Permite visualizar y analizar datos climáticos fácilmente.

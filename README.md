@@ -47,5 +47,6 @@ Asegúrate de tener instalado lo siguiente:
 
 ## Licencia ©
 
+```©
 Este proyecto contiene derechos de autor del mismo programador ©.
 ```
